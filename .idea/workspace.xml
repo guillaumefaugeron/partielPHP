@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d398dcdd-be3c-4732-afe9-58cd0f11b212" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Security/AppcarsellerAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/AppcarsellerAuthenticator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/annonces/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/annonces/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index/index.html.twig" afterDir="false" />
     </list>
@@ -185,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581667711207</updated>
-      <workItem from="1581667712397" duration="12096000" />
+      <workItem from="1581667712397" duration="13172000" />
     </task>
     <servers />
   </component>

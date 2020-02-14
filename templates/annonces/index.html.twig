@@ -8,18 +8,24 @@
         <table class="table">
             <thead>
             <tr>
-                <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
+                <th scope="col">title</th>
+                <th scope="col">description</th>
+                <th scope="col">city</th>
+                <th scope="col">car year</th>
+                <th scope="col">nb km</th>
+                <th scope="col">nb days</th>
+                <th scope="col">price</th>
             </tr>
             </thead>
             <tbody>
             {% for annonce in annonces %}
                 <tr>
-                    <th scope="row">1</th>
                     <td>{{ annonce.title }}</td>
                     <td>{{ annonce.description }}</td>
+                    <td>{{ annonce.city }}</td>
+                    <td>{{ annonce.caryear }}</td>
+                    <td>{{ annonce.nbkm }}</td>
+                    <td>{{ annonce.nbdays }}</td>
                     <td>{{ annonce.price }}</td>
                 </tr>
             {% endfor %}
