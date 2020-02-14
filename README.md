@@ -7,7 +7,7 @@ d'ou le principe d'injection)
 
 2. Quelle est la différence entre les commandes `make:entity` et `make:user` lorsqu'on utilise la console Symfony ?
 
-
+make:entity fait une entity classsique alorsque le make:user fait une entity spécifique a la ftc de login
 
 3. Quelle commande utiliser pour charger les fixtures dans la base de données ?
 
